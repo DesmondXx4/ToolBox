@@ -1,0 +1,23 @@
+E:\源码\C#范例大全\21\021\ImageGrain\ImageGrain\bin\Debug\ImageGrain.exe
+E:\源码\C#范例大全\21\021\ImageGrain\ImageGrain\bin\Debug\ImageGrain.pdb
+E:\源码\C#范例大全\21\021\ImageGrain\ImageGrain\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#范例大全\21\021\ImageGrain\ImageGrain\obj\Debug\ImageGrain.Frm_Main.resources
+E:\源码\C#范例大全\21\021\ImageGrain\ImageGrain\obj\Debug\ImageGrain.Properties.Resources.resources
+E:\源码\C#范例大全\21\021\ImageGrain\ImageGrain\obj\Debug\ImageGrain.csproj.GenerateResource.Cache
+E:\源码\C#范例大全\21\021\ImageGrain\ImageGrain\obj\Debug\ImageGrain.exe
+E:\源码\C#范例大全\21\021\ImageGrain\ImageGrain\obj\Debug\ImageGrain.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\514\ImageGrain\ImageGrain\bin\Debug\ImageGrain.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\514\ImageGrain\ImageGrain\bin\Debug\ImageGrain.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\514\ImageGrain\ImageGrain\obj\Debug\ResolveAssemblyReference.cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\514\ImageGrain\ImageGrain\obj\Debug\ImageGrain.Frm_Main.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\514\ImageGrain\ImageGrain\obj\Debug\ImageGrain.Properties.Resources.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\514\ImageGrain\ImageGrain\obj\Debug\ImageGrain.csproj.GenerateResource.Cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\514\ImageGrain\ImageGrain\obj\Debug\ImageGrain.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\514\ImageGrain\ImageGrain\obj\Debug\ImageGrain.pdb
+F:\Examples\C#\【资料】\C#开发实战1200例\C#开发实战1200例（第I卷） (1)\C#开发实战1200例（第I卷）\22\514\ImageGrain\ImageGrain\bin\Debug\ImageGrain.exe
+F:\Examples\C#\【资料】\C#开发实战1200例\C#开发实战1200例（第I卷） (1)\C#开发实战1200例（第I卷）\22\514\ImageGrain\ImageGrain\bin\Debug\ImageGrain.pdb
+F:\Examples\C#\【资料】\C#开发实战1200例\C#开发实战1200例（第I卷） (1)\C#开发实战1200例（第I卷）\22\514\ImageGrain\ImageGrain\obj\Debug\ImageGrain.Frm_Main.resources
+F:\Examples\C#\【资料】\C#开发实战1200例\C#开发实战1200例（第I卷） (1)\C#开发实战1200例（第I卷）\22\514\ImageGrain\ImageGrain\obj\Debug\ImageGrain.Properties.Resources.resources
+F:\Examples\C#\【资料】\C#开发实战1200例\C#开发实战1200例（第I卷） (1)\C#开发实战1200例（第I卷）\22\514\ImageGrain\ImageGrain\obj\Debug\ImageGrain.csproj.GenerateResource.Cache
+F:\Examples\C#\【资料】\C#开发实战1200例\C#开发实战1200例（第I卷） (1)\C#开发实战1200例（第I卷）\22\514\ImageGrain\ImageGrain\obj\Debug\ImageGrain.exe
+F:\Examples\C#\【资料】\C#开发实战1200例\C#开发实战1200例（第I卷） (1)\C#开发实战1200例（第I卷）\22\514\ImageGrain\ImageGrain\obj\Debug\ImageGrain.pdb
