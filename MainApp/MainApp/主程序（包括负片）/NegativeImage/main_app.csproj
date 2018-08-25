@@ -96,13 +96,13 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\全屏截图\全屏截图\jietu.csproj">
-      <Project>{dfaec186-94b0-4f37-aebe-810699d067dd}</Project>
-      <Name>jietu</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\截图\_SCREEN_CAPTURE_TOOL\_SCREEN_CAPTURE\_SCREEN_CAPTURE.csproj">
+    <ProjectReference Include="..\..\截图\_SCREEN_CAPTURE\_SCREEN_CAPTURE.csproj">
       <Project>{9786f3b5-866b-4b93-93a5-ac2379c92657}</Project>
       <Name>_SCREEN_CAPTURE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\截图\_SCREEN_CAPTURE_TOOL\_SCREEN_CAPTURE_TOOL.csproj">
+      <Project>{383f2c83-3e5d-44b7-ab11-c8a1809b2fd4}</Project>
+      <Name>_SCREEN_CAPTURE_TOOL</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\纹理\ImageGrain\ImageGrain.csproj">
       <Project>{ca51ddac-96c9-4131-bedb-2fc0e93e9fec}</Project>

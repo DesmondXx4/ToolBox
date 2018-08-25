@@ -49,3 +49,24 @@ D:\main_app\ToolBox\主程序（包括负片）\NegativeImage\obj\Debug\main_app
 D:\main_app\ToolBox\主程序（包括负片）\NegativeImage\obj\Debug\main_app.csproj.CopyComplete
 D:\main_app\ToolBox\主程序（包括负片）\NegativeImage\obj\Debug\NegativeImage.exe
 D:\main_app\ToolBox\主程序（包括负片）\NegativeImage\obj\Debug\NegativeImage.pdb
+D:\VS编程\新建文件夹 (3)\ToolBox\MainApp\MainApp\主程序（包括负片）\NegativeImage\obj\Debug\main_app.csprojAssemblyReference.cache
+D:\VS编程\新建文件夹 (3)\ToolBox\MainApp\MainApp\主程序（包括负片）\NegativeImage\obj\Debug\NegativeImage.fuguang.resources
+D:\VS编程\新建文件夹 (3)\ToolBox\MainApp\MainApp\主程序（包括负片）\NegativeImage\obj\Debug\NegativeImage.mainform.resources
+D:\VS编程\新建文件夹 (3)\ToolBox\MainApp\MainApp\主程序（包括负片）\NegativeImage\obj\Debug\NegativeImage.Properties.Resources.resources
+D:\VS编程\新建文件夹 (3)\ToolBox\MainApp\MainApp\主程序（包括负片）\NegativeImage\obj\Debug\main_app.csproj.GenerateResource.cache
+D:\VS编程\新建文件夹 (3)\ToolBox\MainApp\MainApp\主程序（包括负片）\NegativeImage\obj\Debug\main_app.csproj.CoreCompileInputs.cache
+D:\VS编程\新建文件夹 (3)\ToolBox\MainApp\MainApp\主程序（包括负片）\NegativeImage\obj\Debug\NegativeImage.exe
+D:\VS编程\新建文件夹 (3)\ToolBox\MainApp\MainApp\主程序（包括负片）\NegativeImage\obj\Debug\NegativeImage.pdb
+D:\VS编程\新建文件夹 (3)\ToolBox\MainApp\MainApp\主程序（包括负片）\NegativeImage\bin\Debug\NegativeImage.exe
+D:\VS编程\新建文件夹 (3)\ToolBox\MainApp\MainApp\主程序（包括负片）\NegativeImage\bin\Debug\NegativeImage.pdb
+D:\VS编程\新建文件夹 (3)\ToolBox\MainApp\MainApp\主程序（包括负片）\NegativeImage\bin\Debug\ImageGrain.exe
+D:\VS编程\新建文件夹 (3)\ToolBox\MainApp\MainApp\主程序（包括负片）\NegativeImage\bin\Debug\Mosaic.exe
+D:\VS编程\新建文件夹 (3)\ToolBox\MainApp\MainApp\主程序（包括负片）\NegativeImage\bin\Debug\SuavityImage.exe
+D:\VS编程\新建文件夹 (3)\ToolBox\MainApp\MainApp\主程序（包括负片）\NegativeImage\bin\Debug\ImageGrain.pdb
+D:\VS编程\新建文件夹 (3)\ToolBox\MainApp\MainApp\主程序（包括负片）\NegativeImage\bin\Debug\SuavityImage.pdb
+D:\VS编程\新建文件夹 (3)\ToolBox\MainApp\MainApp\主程序（包括负片）\NegativeImage\bin\Debug\Mosaic.pdb
+D:\VS编程\新建文件夹 (3)\ToolBox\MainApp\MainApp\主程序（包括负片）\NegativeImage\obj\Debug\main_app.csproj.CopyComplete
+D:\VS编程\新建文件夹 (3)\ToolBox\MainApp\MainApp\主程序（包括负片）\NegativeImage\bin\Debug\_SCREEN_CAPTURE_TOOL.exe
+D:\VS编程\新建文件夹 (3)\ToolBox\MainApp\MainApp\主程序（包括负片）\NegativeImage\bin\Debug\_SCREEN_CAPTURE.dll
+D:\VS编程\新建文件夹 (3)\ToolBox\MainApp\MainApp\主程序（包括负片）\NegativeImage\bin\Debug\_SCREEN_CAPTURE_TOOL.pdb
+D:\VS编程\新建文件夹 (3)\ToolBox\MainApp\MainApp\主程序（包括负片）\NegativeImage\bin\Debug\_SCREEN_CAPTURE.pdb
