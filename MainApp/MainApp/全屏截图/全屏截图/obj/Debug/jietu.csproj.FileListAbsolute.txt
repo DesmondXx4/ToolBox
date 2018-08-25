@@ -1,0 +1,9 @@
+D:\main_app\全屏截图\全屏截图\bin\Debug\全屏截图.exe.config
+D:\main_app\全屏截图\全屏截图\bin\Debug\全屏截图.exe
+D:\main_app\全屏截图\全屏截图\bin\Debug\全屏截图.pdb
+D:\main_app\全屏截图\全屏截图\obj\Debug\jietu.csprojAssemblyReference.cache
+D:\main_app\全屏截图\全屏截图\obj\Debug\全屏截图.jietu.resources
+D:\main_app\全屏截图\全屏截图\obj\Debug\jietu.csproj.GenerateResource.cache
+D:\main_app\全屏截图\全屏截图\obj\Debug\jietu.csproj.CoreCompileInputs.cache
+D:\main_app\全屏截图\全屏截图\obj\Debug\全屏截图.exe
+D:\main_app\全屏截图\全屏截图\obj\Debug\全屏截图.pdb

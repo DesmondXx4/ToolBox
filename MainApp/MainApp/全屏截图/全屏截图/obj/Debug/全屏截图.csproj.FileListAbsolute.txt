@@ -1,0 +1,8 @@
+d:\Users\tzq\Documents\SharpDevelop Projects\全屏截图\全屏截图\obj\Debug\全屏截图.csprojResolveAssemblyReference.cache
+d:\Users\tzq\Documents\SharpDevelop Projects\全屏截图\全屏截图\bin\Debug\全屏截图.exe.config
+d:\Users\tzq\Documents\SharpDevelop Projects\全屏截图\全屏截图\bin\Debug\全屏截图.exe
+d:\Users\tzq\Documents\SharpDevelop Projects\全屏截图\全屏截图\bin\Debug\全屏截图.pdb
+d:\Users\tzq\Documents\SharpDevelop Projects\全屏截图\全屏截图\obj\Debug\全屏截图.MainForm.resources
+d:\Users\tzq\Documents\SharpDevelop Projects\全屏截图\全屏截图\obj\Debug\全屏截图.csproj.GenerateResource.Cache
+d:\Users\tzq\Documents\SharpDevelop Projects\全屏截图\全屏截图\obj\Debug\全屏截图.exe
+d:\Users\tzq\Documents\SharpDevelop Projects\全屏截图\全屏截图\obj\Debug\全屏截图.pdb
